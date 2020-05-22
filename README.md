@@ -1,1 +1,1 @@
-# idre-sql-python
+# idre-sql-python-starter
